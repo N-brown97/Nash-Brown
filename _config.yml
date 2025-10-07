@@ -27,10 +27,10 @@ author:
   name             : "Nash Brown"
   pronouns         : # example: "she/her"  
   bio              : "Hi im Nash i'm 28 and new into the IT world but am interested in cybersecurity. I don't have a lot of knowledge yet but am excited to learn and grow my skills."
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : # "Earth"
+  employer         : # "Red Brick University"
+  uri              : "https://github.com/N-brown97/Cyber-Playbook"
+  email            : "nashbrown2016@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -80,13 +80,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# publication_category:
+ # books:
+    # title: 'Books'
+ # manuscripts:
+    #t itle: 'Journal Articles'    
+  #c onferences:
+    # title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
